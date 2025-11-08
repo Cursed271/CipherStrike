@@ -85,7 +85,7 @@ Your feedback helps improve CipherStrike! Contributions and PRs are always welco
 
 ## 📜 License - CURSEDSEC OWNERSHIP EDICT
 
-GlassGuard is licensed under the **COE or CursedSec Ownership Edict License**.
+CipherStrike is licensed under the **COE or CursedSec Ownership Edict License**.
 
 **This software is proprietary intellectual property owned exclusively by CursedSec.**
 
