@@ -1,17 +1,16 @@
 # ----- License -------------------------------------------------- # 
 
 #  CipherStrike - CipherStrike simulates ransomware attacks to test EDR systems, enabling users to strengthen their defense strategies.
-#  Copyright (c) 2025 - Steven Pereira aka Cursed.
+#  Copyright (c) 2025 - CursedSec (Operated by Cursed271). All rights reserved.
 
-#  This software is an open-source cybersecurity tool developed for
+#  This software is an proprietary intellectual property developed for
 #  penetration testing, threat modeling, and security research. It   
-#  is licensed under the MIT License, allowing free use, modification, 
-#  and distribution under the following conditions:
+#  is licensed under the CURSEDSEC OWNERSHIP EDICT:
 #
-#  You MUST include this copyright notice in all copies.
-#  You MAY use this software for personal or educational purposes ONLY.
-#  This software is provided "AS IS," WITHOUT WARRANTY of any kind. 
-#  You MAY NOT use this software for any illegal or unauthorized activity.
+#  🚫 PROHIBITION WARNING 🚫
+#  Redistribution, re-uploading, and unauthorized modification are strictly forbidden 
+#  under the COE. Use is granted ONLY under the limited terms defined in the official 
+#  LICENSE file (COE), which must be included in all copies.
 
 #  DISCLAIMER:
 #  This tool is intended for **educational or ethical testing** purposes only.
@@ -19,7 +18,7 @@
 #  proper authorization is strictly prohibited and may violate laws and regulations.
 #  The author assumes no liability for misuse or damage caused by this tool.
 
-#  🔗 License: MIT License
+#  🔗 LICENSE: CURSEDSEC OWNERSHIP EDICT (COE)
 #  🔗 Repository: https://github.com/Cursed271
 #  🔗 Author: Steven Pereira (@Cursed271)
 
